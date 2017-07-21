@@ -1,2 +1,3 @@
 # hello-world
-Just new to git
+new to git
+Hello people, what is happening
